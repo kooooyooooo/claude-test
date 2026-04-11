@@ -4,6 +4,7 @@
   "description": "小学生ハンドボール選手のコンディショニング可視化アプリ",
   "homepage": "https://kooooyooooo.github.io/claude-test",
   "private": true,
+  "type": "module",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
